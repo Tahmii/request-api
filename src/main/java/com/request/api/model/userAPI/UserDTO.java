@@ -1,4 +1,4 @@
-package com.request.api.model;
+package com.request.api.model.userAPI;
 
 import lombok.Data;
 

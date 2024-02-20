@@ -1,11 +1,12 @@
-package com.request.api.model;
+package com.request.api.model.userAPI;
 
 import lombok.Data;
 
 @Data
-public class RegisteredDTO {
+public class DobDTO {
     private String date;
     private int age;
+
 }
 
 
